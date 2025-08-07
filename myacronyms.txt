@@ -5,3 +5,4 @@
 #
 # Example:
 #   MIA:Missing In Action
+PTC:Photon Transfer Curve
